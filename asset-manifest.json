@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//latestpages.git/static/css/main.073c9b0a.css",
+    "main.js": "//latestpages.git/static/js/main.34966935.js",
+    "static/js/787.2a587581.chunk.js": "//latestpages.git/static/js/787.2a587581.chunk.js",
+    "index.html": "//latestpages.git/index.html",
+    "main.073c9b0a.css.map": "//latestpages.git/static/css/main.073c9b0a.css.map",
+    "main.34966935.js.map": "//latestpages.git/static/js/main.34966935.js.map",
+    "787.2a587581.chunk.js.map": "//latestpages.git/static/js/787.2a587581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.34966935.js"
+  ]
+}
